@@ -4,5 +4,9 @@
 
 ## Supported Payments
 
- * **Card Payment**: VISA, Master Card, RuPay
- * **UPI**: Paytm, G-pay, Phonpe
+ - **Card Payment**
+    > - Debit Card: VISA, Master, RuPay
+ - **Net Banking**
+    > - NEFT, YONO SBI, BHIM UPI
+ - **Wallet**
+    > - PhonePe, Paytm, CoffeeHut Wallet 
