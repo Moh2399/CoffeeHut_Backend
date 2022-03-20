@@ -6,7 +6,17 @@
 
  - **Card Payment**
     > - Debit Card: VISA, Master, RuPay
+    > - Credit Card: VISA, Master Card, Diners Club
+
  - **Net Banking**
-    > - NEFT, YONO SBI, BHIM UPI
+    > - <img src=""> <google-pay-button
+  environment="TEST"
+  buttonColor="white"
+  buttonType="plain"
+  buttonLocale="en"
+  buttonSizeMode="fill"
+  style="width: 160px; height: 40px;"
+></google-pay-button>
+
  - **Wallet**
     > - PhonePe, Paytm, CoffeeHut Wallet 
